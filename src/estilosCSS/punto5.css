@@ -1,0 +1,44 @@
+.h1punto5{
+    text-align: center;
+    color: #313131;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .1em;
+    font-size: 25px;
+    text-shadow: 
+      2px 2px 0px rgba(0, 0, 0, 0.2);
+    
+    
+}
+
+.col-sm-7{
+    float: left;
+    background: rgb(130,233,255);
+    background: linear-gradient(90deg, rgba(130,233,255,1) 1%, rgba(199,166,234,1) 100%);
+    border-bottom-color: black;
+    border-bottom-width: 4px;
+    border-style: inset;
+    height: 210px;
+}
+
+#botoncito2{
+    text-align: center;
+    justify-content: center;
+    margin-left: 70px;
+    width: 250px;
+}
+
+#botoncito3{
+    text-align: center;
+    justify-content: center;
+    margin-left: 70px;
+    width: 250px;
+}
+
+.ppunto5{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .1em;
+    text-decoration: double;
+    color: black;
+    font-variant: small-caps;
+}

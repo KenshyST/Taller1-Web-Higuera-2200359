@@ -1,0 +1,45 @@
+.contenedorPunto3{
+    background: rgb(130,233,255);
+    background: linear-gradient(90deg, rgba(130,233,255,1) 1%, rgba(199,166,234,1) 100%);
+    border-bottom-color: black;
+    border-bottom-width: 4px;
+    border-style: inset;
+}
+
+.ppunto3{
+    font-family: 'Lato', sans-serif;
+    font-size:18px;
+    letter-spacing: .1em;
+    text-decoration: double;
+    color: black;
+    font-variant: small-caps;
+
+}
+
+.h1punto3{
+    text-align: center;
+    color: #313131;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .1em;
+    text-shadow: 
+      2px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.btn-2 {
+    background: rgb(96,9,240);
+    background: linear-gradient(0deg, rgba(96,9,240,1) 0%, rgba(129,5,240,1) 100%);
+    border: none;
+    color:white
+    
+  }
+  .btn-2:before {
+    height: 0%;
+    width: 2px;
+  }
+  .btn-2:hover {
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+      inset -4px -4px 6px 0 rgba(255,255,255,.2),
+      inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+  }

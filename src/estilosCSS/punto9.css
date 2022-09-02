@@ -1,0 +1,13 @@
+#tblDatos{
+    align-content: center;
+    border: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.contenedorPunto9{
+    border-bottom-color: black;
+    border-bottom-width: 4px;
+    border-style: inset;
+    background-color: lightcyan;
+}

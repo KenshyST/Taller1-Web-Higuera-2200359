@@ -1,0 +1,29 @@
+.h1punto4{
+    text-align: center;
+    color: #313131;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .1em;
+    text-shadow: 
+      2px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+
+#botoncito{
+    text-align: center;
+    justify-content: center;
+    margin-left: 70px;
+    width: 300px;
+}
+
+.ppunto4{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .1em;
+    text-decoration: double;
+    color: black;
+    font-variant: small-caps;
+}
+#espaciado4{
+    height: 420px;
+}
+
